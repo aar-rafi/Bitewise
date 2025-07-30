@@ -3,4 +3,4 @@
 	url = git@github.com:aar-rafi/bitewise_frontend.git
 [submodule "backend"]
 	path = backend
-	url = git@github.com:aar-rafi/bitewise-backend.git
+	url = git@github.com:aaniksahaa/bitewise-backend.git
